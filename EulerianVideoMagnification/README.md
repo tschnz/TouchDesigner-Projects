@@ -2,7 +2,7 @@
 EVM in TouchDesigner. Works with the free Non-Commercial license. Runs in real time.
 
 ![Watch the video](https://raw.githubusercontent.com/tschnz/TouchDesigner-Projects/master/EulerianVideoMagnification/EVM_Banana.gif)
-_Motion magnified banana. Left is the original, rotated around the center of the image 3 times a second by 0.2px, right is the motion magnified version._ 
+_Motion magnified banana. Left is the original, rotated around the center of the image 3 times a second by 0.1px, right is the motion magnified version._ 
 
 You can find this validation in the .toe - the .tox holds only the EVM Base Comp.
 
